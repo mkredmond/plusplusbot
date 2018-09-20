@@ -39,5 +39,9 @@
   "devDependencies": {
     "discord.js": "^11.2.1",
     "request": "^2.83.0"
-  }
+  },
+  "scripts": {
+    "start": "node dev.js"
+  },
+  "main": "dev.js"
 }
